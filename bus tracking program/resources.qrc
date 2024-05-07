@@ -1,0 +1,27 @@
+<RCC>
+  <qresource>
+    <file>Icons/suggestion1.png</file>
+    <file>Icons/info.svg</file>
+    <file>Icons/helpicon.svg</file>
+    <file>Icons/loguot.svg</file>
+    <file>Icons/adresssvg.svg</file>
+    <file>Icons/bars-solid.svg</file>
+    <file>Icons/bookmark-solid.svg</file>
+    <file>Icons/comment-solid.svg</file>
+    <file>Icons/comments-solid.svg</file>
+    <file>Icons/gear-solid.svg</file>
+    <file>Icons/github.svg</file>
+    <file>Icons/help (2).svg</file>
+    <file>Icons/help.svg</file>
+    <file>Icons/home.svg</file>
+    <file>Icons/house-solid.svg</file>
+    <file>Icons/location-dot-solid.svg</file>
+    <file>Icons/login.svg</file>
+    <file>Icons/magnifying-glass-solid.svg</file>
+    <file>Icons/suggestion.svg</file>
+    <file>Icons/sun-regular.svg</file>
+    <file>Icons/sun-solid.svg</file>
+    <file>Icons/user.svg</file>
+    <file>Icons/user-solid.svg</file>
+  </qresource>
+</RCC>
